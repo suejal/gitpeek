@@ -1,6 +1,6 @@
 # 🔍 GITPEEK - GitHub Repository Analyzer CLI
 
-A **command-line tool** to analyze GitHub repositories. It fetches repository statistics, identifies active contributors, analyzes file changes, and presents the data in a user-friendly format — with optional CSV exports and chart/graph generation.
+A **command-line tool** to analyze GitHub repositories. It fetches repository statistics, identifies active contributors, analyzes file changes, and presents the data in a user-friendly format, with optional CSV exports and chart/graph generation.
 
 ---
 
